@@ -14,8 +14,8 @@ export function Skills() {
       </ul>
       <ul className="skills-list">
         <h2>Backend :</h2>
-        <li>React.js</li>
         <li>Node.js</li>
+        <li>Express</li>
         <li>MongoDB</li>
       </ul>
       <ul className="skills-list">
